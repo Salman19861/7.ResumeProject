@@ -1,0 +1,42 @@
+.hh{
+    color: brown;
+}
+.br{
+    border-right: 1px solid  yellow;
+}
+.wb{
+    border-bottom:1px solid white;
+}
+.ti{
+    text-indent: 77px;
+}
+.hmbtn{
+    margin-right: 45px;
+}
+
+.fs{font-family: 'Sedgwick Ave', cursive;}
+
+html,body{
+    height: 100%;
+}
+.container-fluid{
+    min-height: 100%;
+}
+.ic{
+    color: yellow;
+}
+.al{
+text-align: center;
+}
+a.nav-link{
+    color: white;
+}
+a.nav-link:hover{
+    color: black;
+    background-color: #e9cd79;
+}
+a.nav-link.active{
+    color:black;
+    background-color: #eed202;
+    font-weight: bold;
+}
